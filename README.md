@@ -1,0 +1,1 @@
+# Makalah-STIMA-2024
