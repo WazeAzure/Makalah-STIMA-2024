@@ -20,7 +20,7 @@ public class GridManager : MonoBehaviour
         // Set obstacles in the grid
         grid[5, 0] = 1;
         grid[5, 1] = 1;
-        //grid[0, 0] = 2;
+        grid[0, 0] = 2;
         grid[9, 9] = 3;
         grid[1, 2] = 1;
         // grid[2, 2] = 1;
